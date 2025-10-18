@@ -30,6 +30,9 @@
 3. Tracked binary files (`git lfs track "*.bin"`).
 4. Added a 200MB file and .gitattributes and committed.
 5. Verified LFS tracking after cloning on another directory.
+6. Used git fetch --all
+7. Removed existing .gitattributes because which not able to checkout lfs_branch
+8. Checkout lfs_branch and able to see the bigfile.bin with real size
 
 ---
 
