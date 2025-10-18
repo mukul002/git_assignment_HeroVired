@@ -47,7 +47,7 @@
 ---
 
 ## Collaborator
-- Vikram Gill
+- Vikram Hem Chandar
 - Vishwadeep Negi
 
 ---
